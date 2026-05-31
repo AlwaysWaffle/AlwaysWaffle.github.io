@@ -2,9 +2,9 @@
   "cpu": 5,
   "ram_used": 257,
   "ram_total": 1788,
-  "temp": 41.0,
+  "temp": 40.0,
   "disk_pct": 19,
   "disk_free": "12G",
-  "uptime_sec": 399842,
-  "timestamp": 1780199768
+  "uptime_sec": 399965,
+  "timestamp": 1780199891
 }
